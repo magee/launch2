@@ -319,3 +319,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 </pre>
+
+
+Magee's Notes
+=================================
+To launch Redis on my system:
+$ redis-server
+
+Launch Redis-cli (if desired):
+$ redis-cli
+
+Launch MongoDB
+$ mongod
